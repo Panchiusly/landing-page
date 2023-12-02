@@ -167,6 +167,10 @@ header, .first-section, .second-section, .quote, .fourth-section{
             padding: 0px;
             height: 37.5px;
             width: 130px;
-
         }
 
+footer {
+    height: 50px;
+    padding-top: 25px;
+    text-align: center;
+}
